@@ -1,3 +1,3 @@
 export const PORT=5555;
 export const mongoDBURL=
-'mongodb+srv://admin:admin@farhancluster.7ldln62.mongodb.net/books-collection?retryWrites=true&w=majority';
+'mongodb+srv://itabatch25:KMlOjd0dAcnwD4H6@cluster0.aesgy9y.mongodb.net/book-store-manage?retryWrites=true&w=majority&appName=Cluster0';
